@@ -3,7 +3,7 @@
 
 int Sum()
 {
-
+    std::cout << "Hello World!\n";
 }
 
 int main()
